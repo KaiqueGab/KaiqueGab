@@ -1,7 +1,7 @@
 ## Olá!! Seja bem vindo ao meu perfil 
 
 - 🚀 Evoluindo com Front-End
-- 🌱 Estudando BootStrap
+- 🌱 Estudando JavaScript
 ##
 
 <div>
