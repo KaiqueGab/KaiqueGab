@@ -8,7 +8,7 @@
 <div>
   <a href-"https://github.com/KaiqueGab">
     
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kaiquegab\&hide=issues\&show_icons=true&theme=tokyonight)
+ <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kaiquegab\&hide=issues\&show_icons=true&theme=tokyonight) -->
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaiquegab&layout=compact&theme=tokyonight)
 </div>
 
