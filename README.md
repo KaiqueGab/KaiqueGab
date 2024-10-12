@@ -1,6 +1,6 @@
 ## Olá!! Seja bem vindo ao meu perfil 
 
-- 🚀 Evoluindo com Python  
+- 🚀 Evoluindo em Python  
 - 🌱 Estudando com Jupyter
 - 📈 Crescendo em Processamento de Imagem
 ##
