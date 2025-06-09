@@ -4,18 +4,10 @@
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=KaiqueGab&bg_color=0d1117&color=0043e0&line=3370ff&point=0043e0&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-
-<div align="center">
-   <a href="https://github.com/KaiqueGab">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KaiqueGab&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaiqueGab&layout=compact&langs_count=6&theme=tokyonight"/>
-
-</div>
-
 <br/>
 
 <div align="center"> 
-  <a href="https://instagram.com/kaique.biell" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
+  <a href="https://instagram.com/kaique.biell" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
   <a href = "mailto:krebonato7@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/kaíquebasseto/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  </div>
