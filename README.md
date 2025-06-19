@@ -20,8 +20,8 @@
 ![MySQL](https://img.shields.io/badge/mysql-0D1117?style=for-the-badge&logo=mysql&logoColor=6DA55F)
 
 ### Studying in this moment:
-![JavaScript](https://img.shields.io/badge/javascript-0D1117?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![NodeJS](https://img.shields.io/badge/node.js-0D1117?style=for-the-badge&logo=node.js&logoColor=6DA55F)
-![React](https://img.shields.io/badge/react.js-0D1117?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Python](https://img.shields.io/badge/python-0D1117?style=for-the-badge&logo=Python&logoColor=23316192)
+![MySQL](https://img.shields.io/badge/mysql-0D1117?style=for-the-badge&logo=mysql&logoColor=6DA55F)
+![Git](https://img.shields.io/badge/git-0D1117?style=for-the-badge&logo=git&logoColor=6DA55F)
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0043e0&height=120&section=footer"/>
