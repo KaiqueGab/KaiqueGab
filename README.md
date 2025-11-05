@@ -12,15 +12,15 @@
  </div>
 
 ### Main skills:
-![HTML5](https://img.shields.io/badge/html-0D1117?style=for-the-badge&logo=html5&logoColor=23E34F26)
-![CSS3](https://img.shields.io/badge/css-0D1117?style=for-the-badge&logo=css&logoColor=%231572B6)
+![Cypress](https://img.shields.io/badge/cypress-0D1117?style=for-the-badge&logo=cypress&logoColor=04C38E)
+![JavaScript](https://img.shields.io/badge/javascript-0D1117?style=for-the-badge&logo=javascript&logoColor=f0db4f )
 ![Python](https://img.shields.io/badge/python-0D1117?style=for-the-badge&logo=Python&logoColor=23316192)
-![MySQL](https://img.shields.io/badge/mysql-0D1117?style=for-the-badge&logo=mysql&logoColor=6DA55F)
-![Git](https://img.shields.io/badge/git-0D1117?style=for-the-badge&logo=git&logoColor=6DA55F)
+![MySQL](https://img.shields.io/badge/mysql-0D1117?style=for-the-badge&logo=mysql&logoColor=00758F)
+![Git](https://img.shields.io/badge/git-0D1117?style=for-the-badge&logo=git&logoColor=F1502F)
 
 ### Studying in this moment:
-![Python](https://img.shields.io/badge/python-0D1117?style=for-the-badge&logo=Python&logoColor=23316192)
-![MySQL](https://img.shields.io/badge/mysql-0D1117?style=for-the-badge&logo=mysql&logoColor=6DA55F)
-![Git](https://img.shields.io/badge/git-0D1117?style=for-the-badge&logo=git&logoColor=6DA55F)
+![JavaScript](https://img.shields.io/badge/javascript-0D1117?style=for-the-badge&logo=javascript&logoColor=f0db4f )
+![Cypress](https://img.shields.io/badge/cypress-0D1117?style=for-the-badge&logo=cypress&logoColor=04C38E)
+![MySQL](https://img.shields.io/badge/mysql-0D1117?style=for-the-badge&logo=mysql&logoColor=00758F)
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0043e0&height=120&section=footer"/>
