@@ -2,8 +2,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0043e0&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Kaique+Rebonato;I'm+21+years+old;I'm+from+Brazil;Be+Welcome!+🙂)](https://git.io/typing-svg)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=KaiqueGab&bg_color=0d1117&color=0043e0&line=3370ff&point=0043e0&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 <br/>
 
 <div align="center"> 
