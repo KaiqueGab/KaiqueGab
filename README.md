@@ -10,6 +10,7 @@
  </div>
 
 ### Main skills:
+![Selenium](https://img.shields.io/badge/selenium-0D1117?style=for-the-badge&logo=selenium&logoColor=5FBB49)
 ![Cypress](https://img.shields.io/badge/cypress-0D1117?style=for-the-badge&logo=cypress&logoColor=04C38E)
 ![JavaScript](https://img.shields.io/badge/javascript-0D1117?style=for-the-badge&logo=javascript&logoColor=f0db4f )
 ![Python](https://img.shields.io/badge/python-0D1117?style=for-the-badge&logo=Python&logoColor=23316192)
